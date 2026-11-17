@@ -1,0 +1,36 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "[{\"name\":\"Losartana Potássica 50mg\",\"category\":\"Anti-hipertensivo\",\"prescription\":\"Necessaria\",\"indication\":\"Hipertensão arterial e insuficiência cardíaca\",\"dosage\":\"Tomar conforme orientação (120 comprimidos)\",\"scheduleHours\":8,\"contraindications\":\"Gravidez, hipersensibilidade à losartana, insuficiência hepática grave\",\"sideEffects\":\"Tontura, hipotensão, tosse, fadiga\",\"food\":\"Pode ser administrado com ou sem alimentos\"},{\"name\":\"Hidroclorotiazida 25mg\",\"category\":\"Diurético\",\"prescription\":\"Necessaria\",\"indication\":\"Hipertensão arterial e edema\",\"dosage\":\"Tomar conforme orientação (120 comprimidos)\",\"scheduleHours\":8,\"contraindications\":\"Anúria, insuficiência renal ou hepática grave, hipersensibilidade a sulfonamidas\",\"sideEffects\":\"Aumento do volume urinário, hipocalemia, tontura, boca seca\",\"food\":\"Pode ser tomado com alimentos para evitar desconforto gástrico, preferencialmente pela manhã\"}]",
+            "thoughtSignature": "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"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 1359,
+    "candidatesTokenCount": 231,
+    "totalTokenCount": 2303,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 267
+      }
+    ],
+    "thoughtsTokenCount": 713,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.8-flash",
+  "responseId": "C3K8aszRHL6uqtsPhfPmiQo"
+}
